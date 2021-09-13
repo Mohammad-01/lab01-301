@@ -8,7 +8,7 @@ class App extends React.Component {
     render(){
         return(
             <div>
-                {/* <h1>**********</h1>*/}
+                { <h1>Title</h1> }
                 <Header/>
                 <Main/>
                 <Footer/>
